@@ -1,0 +1,4 @@
+2024-11-06 22:48:29.761 | INFO     | etl:pipeline_calcular_vendas_consolidada:41 - 
+2024-11-06 22:48:29.761 | INFO     | etl:pipeline_calcular_vendas_consolidada:42 - Salvando arquivos
+2024-11-06 22:48:29.762 | INFO     | etl:carregar_dados:31 - csv
+2024-11-06 22:48:29.829 | INFO     | etl:carregar_dados:31 - parquet
